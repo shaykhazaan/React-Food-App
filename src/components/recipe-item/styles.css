@@ -1,0 +1,24 @@
+.recipe-item {
+  border: 1px solid red;
+  padding: 10px;
+  box-shadow: 0px 0px rgba(250, 100, 0, 1);
+  background-color: #ffffff;
+}
+
+.recipe-item p {
+  color: #fa6400;
+  font-weight: 700;
+  font-size: 20px;
+  margin: 12px 0 12px 0px;
+}
+
+.recipe-item button {
+  background-color: #fa6400;
+  padding: 10px 50px;
+  color: #fff;
+  font-size: 16px;
+  box-shadow: 0 1px 3px 0 rgb(0 0 0/2%);
+  border-radius: 4px;
+  border-color: #fa6400;
+  cursor: pointer;
+}
